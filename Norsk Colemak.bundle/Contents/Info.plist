@@ -8,12 +8,12 @@
 	<string>Norsk Colemak</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_Norsk Colemak-DH</key>
+	<key>KLInfo_Norsk Colemak-DH Angle</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
+		<true/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.norskcolemak.norskcolemak-dh</string>
+		<string>org.sil.ukelele.keyboardlayout.norskcolemak.norskcolemak-dhangle</string>
 		<key>TISIntendedLanguage</key>
 		<string>nb</string>
 	</dict>
